@@ -17,6 +17,12 @@ This Java project processes mobile data usage records from multiple input files.
 Use the following commands to compile and run the full application along with tests:
 
 javac -d bin src/model/*.java src/*.java
+
+
 java -cp bin Main
+
+
 javac -d bin -cp "lib/*;bin" test/ProcessorTest.java
+
+
 java -cp "lib/*;bin" org.junit.platform.console.ConsoleLauncher --select-class ProcessorTest
