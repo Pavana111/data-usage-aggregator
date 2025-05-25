@@ -1,0 +1,10 @@
+9000000001|TowerK|300|500|No
+9000000002|TowerL|100|200|Yes
+9000000003|TowerM|200|300|Yes
+9000000011|TowerO|600|0|No
+9000000012|TowerP|400|700|Yes
+badinputlinewithoutseparator            //invalid input given   
+9000000013|TowerQ|0|0|Maybe             //invalid input given   
+9000000014|TowerR|1000|1500|No
+9000000015|TowerS|300|400|Yes
+
